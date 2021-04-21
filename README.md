@@ -13,7 +13,7 @@ Languages and Tools
 ![Sql](https://img.shields.io/badge/Sql-4B0082?style=for-the-badge&logo=Sql)
 ![Javascript](https://img.shields.io/badge/Javascript-4B0082?style=for-the-badge&logo=Javascript)
 
-###Follow Me
+### Follow Me
 
 [![Vk](https://img.shields.io/badge/VK-DCDCDC?style=for-the-badge&logo=Vk)](https://vk.com/kopengagenboy)
 [![Instagram](https://img.shields.io/badge/Instagram-DCDCDC?style=for-the-badge&logo=Instagram)](https://www.instagram.com/khubilae/)
