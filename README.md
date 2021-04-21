@@ -2,9 +2,7 @@
 
 ## i'm a python evangelist for students and a young web programmer
 
-Latest Project
-
-Languages and Tools
+### Languages and Tools
 
 ![Django](https://img.shields.io/badge/Django-4B0082?style=for-the-badge&logo=Django)
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=Python)
