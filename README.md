@@ -1,6 +1,6 @@
 ![Header](https://github.com/stealthaction/Stealthaction/blob/main/assets/d688d5e.gif)
 
-About me
+## i'm a python evangelist for students and a young web programmer
 
 Latest Project
 
