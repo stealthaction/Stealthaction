@@ -1,12 +1,13 @@
 ![Header](https://github.com/stealthaction/Stealthaction/blob/main/assets/d688d5e.gif)
 
-## i'm a python evangelist for students and a young web programmer
+## i'm a python evangelist for students and a young QA
 
 ### Languages and Tools
-![QA
-![Selenium]
-![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=Python)
-![Sql](https://img.shields.io/badge/Sql-4B0082?style=for-the-badge&logo=Sql)
+
+Selenium |
+Pytest |
+Python |
+Sql 
 
 
 ### Follow Me
