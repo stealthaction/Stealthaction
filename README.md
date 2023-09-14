@@ -1,6 +1,6 @@
 ![Header](https://github.com/stealthaction/Stealthaction/blob/main/assets/d688d5e.gif)
 
-## i'm a python evangelist for students and a young QA
+## i'm a python evangelist for students and a QA
 
 ### Languages and Tools
 
